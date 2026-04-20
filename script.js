@@ -1,2 +1,1 @@
-console.log("Hello Git Demo");
-console.log("This change is from feature branch");
+console.log("Hello from conflict-demo branch");
